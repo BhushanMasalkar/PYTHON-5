@@ -1,0 +1,6 @@
+def compute():
+    try:
+        c=5/0
+    except:
+        print("Error")
+compute()
